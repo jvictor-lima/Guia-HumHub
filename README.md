@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center; font-family: 'Ubuntu', sans-serif; color: #B8B8B8;font-weight: 100;"><span style="font-family: 'Lato', sans-serif;
+<h1 style ="font-family: 'Ubuntu', sans-serif; color: #B8B8B8;font-weight: 100;"><span style="font-family: 'Lato', sans-serif;
 color: #9F9F9F; font-weight: 700;">Guia<br>Hum</span>Hub</h1>
 
 
