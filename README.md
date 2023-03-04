@@ -1,6 +1,6 @@
 
-<center><h1 style ="font-family: 'Ubuntu', sans-serif; color: #B8B8B8;font-weight: 100;"><span style="font-family: 'Lato', sans-serif;
-color: #9F9F9F; font-weight: 700;">Guia<br>Hum</span>Hub</h1></center>
+<h1 style ="font-family: 'Ubuntu', sans-serif; color: #B8B8B8;font-weight: 100;"><span style="font-family: 'Lato', sans-serif;
+color: #9F9F9F; font-weight: 700;">Guia<br>Hum</span>Hub</h1>
 
 
 <h2 style=" text-align: center; font-size: 28px; color: #fff;font-family: 'Ubuntu', sans-serif;">Entrando na rede</h2>
